@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/mastermindbg"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:src="@drawable/mastermindlogo"
+        />
+
+    <Button
+        android:id="@+id/btn_play"
+        android:layout_width="150dp"
+        android:background="@drawable/round_button"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:text="Play"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:id="@+id/btn_Exit"
+        android:layout_width="150dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/round_btn2"
+        android:layout_height="50dp"
+        android:text="Exit"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>

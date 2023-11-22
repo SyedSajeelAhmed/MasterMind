@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MasterMind</string>
+    <string name="Help">Click play and choose your level.Start your game.Click on "?" option to view hint.Arrange the word in correct order to clear round.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="next">Excellent! You have clear this round now onto the next one.</string>
+
+    <string name="eQ1">What is usually in Hospital?</string>
+    <string name="eQ2">What appears on window screen of a computer?</string>
+    <string name="eQ3">Why are you afraid of him?</string>
+    <string name="eQ4">Where do we all live?</string>
+    <string name="eQ5">A small wooden made box.</string>
+
+    <string name="mQ1">Seeds from a small tropical American evergreen tree.</string>
+    <string name="mQ2">Where you go to study?</string>
+    <string name="mQ3">A writ for summoning substitute jurors when the original jury has become deficient in number. </string>
+    <string name="mQ4">When you do things quickly.</string>
+    <string name="mQ5">Mostly people like this weather.</string>
+
+    <string name="hQ1">Fit or suitable to be eaten.</string>
+    <string name="hQ2">Take away by force or deception.</string>
+    <string name="hQ3">A young trainee in the armed services or police force.</string>
+    <string name="hQ4">What you did to your picture?</string>
+    <string name="hQ5">What is similar to Cabin?</string>
+
+</resources>
